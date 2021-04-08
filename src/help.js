@@ -10,8 +10,8 @@ const help = (prefix) => {
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
  *PREFIXO*:[ / ]
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
- *WHATSAPP*: wa.me/556696159143
- *WHATSAPP*: wa.me/+1469901-5476
+ *WHATSAPP*: wa.me/+556696159143
+ *WHATSAPP*: wa.me/+557182507697
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
  SE GOSTOU DO BOT FAÇA UMA DOAÇÃO!!
  CHAME NUMERO ACIMA
